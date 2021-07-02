@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "wsTest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "secret": "SeshTy2020SeshTy2020",
+        "db": "Server=DESKTOP-1O37FF5;Database=SeshApp;Trusted_Connection=True;"
+      }
+    }
+  }
+}
